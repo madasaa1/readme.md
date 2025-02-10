@@ -18,3 +18,4 @@ Membuat Akun: Untuk membuat akun di BEON, Anda hanya perlu memberikan nomor tele
 Catatan
 Pastikan Anda memiliki koneksi internet yang stabil saat menggunakan aplikasi BEON.
 Jika Anda mengalami masalah atau memiliki pertanyaan, jangan ragu untuk menghubungi tim dukungan kami.
+Link Figma >>>https://www.figma.com/design/7aJXN25bWWoIiC7TvwW1WU/Lomba-Sefest-2025?node-id=91-1866&t=rt6BVxYTBPUJWSQU-1
